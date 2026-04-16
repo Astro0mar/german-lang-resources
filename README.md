@@ -20,7 +20,7 @@ I started learning German grammar from this playlist:
 ## Speaking
 - I use:
   - Gemini  
-  - Ligouda  
+  - pingoai
 
 
 ## Apps
